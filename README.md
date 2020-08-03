@@ -6,7 +6,8 @@ Welcome to my project made on Covid 19 situation. I have used data from various 
 
 Thanks to those developers who provided such stats with high accuracy and daily updates.
  
-I made my project entirely on Power BI and those wanted to create such one can easily do it with required documentations. My report carries all necessary visualizations to understand the current Covid 19 situation throughout the World as well as in India. I used MS Excel to run the data sets and then making necessary data cleaning and arrangements I imported it on Power BI for further analysis. 
+I made my project entirely on Power BI and those wanted to create such one can easily do it with required documentations. My report carries all necessary visualizations to understand the current Covid 19 situation throughout the World as well as in India. I used MS Excel to run the data sets and then making necessary data cleaning and arrangements I imported it on Power BI for further analysis.
+
 My Report link - https://github.com/shayancool08/Covid-19-Analytics-Dashboard/blob/master/Covid%20Dashboard.pdf 
 
 If you need any help, dont hesitate to contact me - 

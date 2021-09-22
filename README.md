@@ -4,7 +4,7 @@ Welcome to my project made on Covid 19 situation. I have used data from various 
 2. COVID-19 pandemic in India - https://en.wikipedia.org/wiki/COVID-19_pandemic_in_India
 3. COVID-19 in India - https://www.kaggle.com/sudalairajkumar/covid19-in-india/data?select=covid_19_india.cs
 
-Thanks to those developers who provided such stats with high accuracy and daily updates.
+Thanks to those analysts who provided such stats with high accuracy and daily updates.
  
 I made my project entirely on Power BI and those wanted to create such one can easily do it with required documentations. My report carries all necessary visualizations to understand the current Covid 19 situation throughout the World as well as in India. I used MS Excel to run the data sets and then making necessary data cleaning and arrangements I imported it on Power BI for further analysis.
 
